@@ -5,3 +5,4 @@ langchain_core
 typing_extensions
 typing
 langgraph
+langchain-xai
